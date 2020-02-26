@@ -1,4 +1,4 @@
-#game-project-bullet-hell
+# game-project-bullet-hell
 
 Title: Welcome to Bullet Hell
 
